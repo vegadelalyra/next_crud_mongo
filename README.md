@@ -1,3 +1,6 @@
+![imagen](https://github.com/vegadelalyra/next_crud_mongo/assets/77188420/8ea8d5e2-a8c8-41a7-8e8a-ffeb810498f2)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
